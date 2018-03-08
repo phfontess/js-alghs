@@ -15,3 +15,7 @@ Given an initial text and the and a second text, the algorithm check if the seco
 ## Reverse words
 **Can't use reverse() method**
 Reverse all the words from a string, but only the words and not all the string.
+
+## Reverse array
+**Can't use reverse() method / Manipulate only the original array/ Cannot create another array**
+Reverse a given array.
